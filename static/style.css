@@ -225,19 +225,19 @@ body
 }
 
 #login-password::-webkit-input-placeholder {
-    font-family: 'D2Coding';
+    font-family: 'JetBrainsMono Nerd Font';
 }
 
 #login-password:-ms-input-placeholder {
-    font-family: 'D2Coding';
+    font-family: 'JetBrainsMono Nerd Font';
 }
 
 #login-password:-moz-placeholder {
-    font-family: 'D2Coding';
+    font-family: 'JetBrainsMono Nerd Font';
 }
 
 #login-password::-moz-placeholder {
-    font-family: 'D2Coding';
+    font-family: 'JetBrainsMono Nerd Font';
 }
 
 #login-name:hover,
