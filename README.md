@@ -27,4 +27,4 @@ Catppuccin theme: [Catppuccin](https://github.com/catppuccin/catppuccin)
 
 ## Screenshots
 
-![Screenshot](https://imgur.com/YW10UAk)
+![Screenshot](https://i.imgur.com/YW10UAk.png "Demo screenshot")
