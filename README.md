@@ -2,8 +2,8 @@
 
 A theme based on lightdm-gab-gradient, lightdm-gab-nord and the Catppuccin theme.
 
-You can find the original project here: [lightdm-gab-gradient](https://github.com/GabrielTenma/lightdm-gab-gradient)  
-and its nord version here: [lightdm-gab-nord](https://github.com/AlphaNecron/lightdm-gab-nord)
+You can find the original project here: [lightdm-gab-gradient](https://github.com/GabrielTenma/lightdm-gab-gradient) and its nord version here: [lightdm-gab-nord](https://github.com/AlphaNecron/lightdm-gab-nord)
+
 Catppuccin theme: [Catppuccin](https://github.com/catppuccin/catppuccin)
 ***
 
@@ -27,4 +27,4 @@ Catppuccin theme: [Catppuccin](https://github.com/catppuccin/catppuccin)
 
 ## Screenshots
 
-![Screenshot](https://imgur.com/YW10UAk "Demo screenshot")
+![Screenshot](https://imgur.com/YW10UAk)
